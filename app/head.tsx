@@ -4,7 +4,7 @@ export default function Head() {
       <title>EP1B - Palach</title>
       <meta content="width=device-width, initial-scale=1" name="viewport" />
       <meta name="description" content="Stránky třídy EP1B" />
-      <link rel="icon" type="image/png" href="/favicon.png" />
+      <link rel="icon" href="/favicon.ico" />
     </>
   )
 }
